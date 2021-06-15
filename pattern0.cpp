@@ -5,11 +5,11 @@ using namespace std;
 /* 
 
 
-*****
-****
-***   
-**       
-*      
+$$$$$
+$$$$
+$$$   
+$$       
+$      
 
 
 */
@@ -22,7 +22,7 @@ int main()
     {
         for(j=i;j>0;j--)
         {
-            cout<<"*";
+            cout<<"$";
         }
         cout<<endl;
     }
